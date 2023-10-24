@@ -3,9 +3,14 @@ body {
   color: white;
   font-family: Arial;
 }
-
+.full{
+ padding-left: 500px;
+ padding-top: 85px;
+ padding-right: 500px;
+ padding-bottom: 85px;
+}
 .title {
-  font-size: 30px;
+  font-size: 40px;
   font-weight: bold;
 }
 
@@ -41,3 +46,4 @@ body {
   padding: 8px 15px;
   cursor: pointer;
 }
+
